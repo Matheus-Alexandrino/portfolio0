@@ -1,0 +1,156 @@
+{
+    "basics": {
+        "name": "Maheus Alexandrino",
+        "label": "Analista Desenvolvedor JR",
+        "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQH2r8Nuoqsjsg/profile-displayphoto-shrink_800_800/0/1649276381610?e=1655337600&v=beta&t=kbZI4uxfRTXfkSRTqvfDB36CdF7_y5ZZErOw_LwQBYs",
+        "email": "matwsalmeida@gmail.com",
+        "phone": "44988074140",
+        "website": "https://www.linkedin.com/in/matheus-alexandrino-21081993/",
+        "summary": "•	Um ano e meio de experiência na área como CLT, boa capacidade de resolução de problemas, raciocínio lógico, bom relacionamento interpessoal, total comprometimento com a equipe, 4º período de análise e desenvolvimento de sistemas pela UniCesumar, possuo alguns cursos na área de programação e sigo estudando em busca de oportunidades que me proporcionem crescimento, aprendendo com os mais experiêntes e podendo também compartilhar conhecimento e experiências que já tive.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Maringá",
+            "countryCode": "BRZ",
+            "region": "Paraná"
+        },
+        "profiles": [{
+                "network": "github",
+                "username": "Matheus-Alexandrino",
+                "url": "https://github.com/Matheus-Alexandrino"
+            },
+            {
+                "network": "linkedin",
+                "username": "Matheus Alexandrino",
+                "url": "https://www.linkedin.com/in/matheus-alexandrino-21081993/"
+            },
+            {
+                "network": "twitter",
+                "username": "Matheus Alexandrino",
+                "url": "http://twitter.com/changeme"
+            },
+            {
+                "network": "instagram",
+                "username": "MatheusAlexandrino",
+                "url": "http://instagram.com/changeme"
+            }
+        ]
+    },
+    "interests": [{
+            "name": "Desenvolvimento",
+            "keywords": [
+                "Uniface",
+                ""
+            ]
+        },
+        {
+            "name": "Analista de Suporte",
+            "keywords": []
+        },
+        {
+            "name": "Front-End",
+            "keywords": []
+        }
+    ],
+    "skills": [{
+            "name": "Linguagens e Frameworks",
+            "level": "",
+            "keywords": [
+                "Javascript",
+                "Uniface",
+                "SQL",
+                "HTML",
+                "PHP",
+                ""
+            ]
+        },
+        {
+            "name": "Toolsets/OS",
+            "level": "",
+            "keywords": [
+                "Dell",
+                "Windows10",
+                "Git/GitHub",
+                "g++",
+                "TI LaunchPad"
+            ]
+        }
+    ],
+    "education": [{
+        "institution": "Unicesumar, Maringá, PR",
+        "area": "Análise e Desenvolvimento de Sistemas (conclusão, 2023)",
+        "studyType": "EAD",
+        "startDate": "01/2020",
+        "endDate": "2023",
+        "gpa": "",
+        "courses": []
+    }],
+    "work": [{
+            "company": "UH Manoa Board of Publications",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "2015-08-01",
+            "endDate": "Present",
+            "summary": "Head of online presence for Ka Leo",
+            "highlights": [
+                "Maintain, update, and oversee official college newspaper website",
+                "Drive, design and build student-community projects for UH Manoa"
+            ]
+        },
+        {
+            "company": "UH Information Technology Services",
+            "position": "Help Desk Consultant",
+            "website": "http://www.hawaii.edu/its/",
+            "startDate": "2015-01-01",
+            "endDate": "2016-03-15",
+            "summary": "",
+            "highlights": [
+                "Troubleshoot software, hardware and networking issues over the phone",
+                "Answer phone and email responses to the ITS Help Desk"
+            ]
+        }
+    ],
+    "volunteer": [{
+            "organization": "Center for Renewable Energy and Island Sustainability",
+            "website": "http://manoa.hawaii.edu/reis",
+            "position": "Software Developer",
+            "startDate": "2016-01-01",
+            "endDate": "Present",
+            "summary": "Lead developer for weather sensing project",
+            "highlights": [
+                "Design firmware for distributed weather sensor network",
+                "Maintain custom data collection and storage infrastructure"
+            ]
+        },
+        {
+            "organization": "",
+            "website": "",
+            "position": "Professional organization involvement",
+            "startDate": "",
+            "endDate": "",
+            "summary": "",
+            "highlights": [
+                "Chair, ACM Manoa, 2016-Present",
+                "Member, IEEE Student Branch, 2014-Present",
+                "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+            ]
+        }
+    ],
+    "awards": [{
+            "title": "B+ Scholarship",
+            "date": "2013-Present",
+            "awarder": "State of Hawaii",
+            "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+        },
+        {
+            "title": "First place",
+            "date": "2015",
+            "awarder": "University of Hawaii Micromouse Competition",
+            "summary": "My team won first place in 2015.  See my portfolio site for more details."
+        }
+    ],
+    "references": [{
+        "name": "Available upon request",
+        "reference": ""
+    }]
+}
