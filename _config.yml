@@ -4,9 +4,9 @@
 # Edit next line, providing your own name.
 title: Matheus Alexandrino | Portfólio Profissional
 # Edit next line, replacing 'techfolios' with your github username
-url: "https://matheus-alexandrino.github.io/portfolio/"
+url: "https://matheus-alexandrino.github.io/portfolio"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: ""
+baseurl: "https://matheus-alexandrino.github.io/portfolio"
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
