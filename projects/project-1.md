@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/API-cadastro.jpeg.jpg
+title: API - Viacep
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
@@ -15,9 +15,11 @@ summary: Neste projeto consumo a API Viacep com uma interface de cadastro fictí
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/API-cadastro.jpeg">
+  <!-- 
   <img class="ui image" src="../images/">
   <img class="ui image" src="../images/">
   <img class="ui image" src="../images/">
+  -->
 </div>
 
 Descrição do projeto:
