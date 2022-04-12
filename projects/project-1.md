@@ -13,7 +13,7 @@ labels:
 summary: Neste projeto consumo a API Viacep com uma interface de cadastro fictício.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium right floated rounded image">
   <img class="ui image" src="../images/API-cadastro.jpeg">
   <!-- 
   <img class="ui image" src="../images/">
