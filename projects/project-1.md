@@ -24,21 +24,9 @@ summary: Neste projeto consumo a API Viacep com uma interface de cadastro fictí
 
 Descrição do projeto:
 
-:
+Projeto feito com a finalidade de consumir uma API, populando campos do formulário de cadastro automaticamente.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-Segue link do projeto](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Segue link do projeto :
 https://matheus-alexandrino.github.io/api-correios-js/
 
 
