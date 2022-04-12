@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/API-cadastro.jpeg.jpg
+image: images/API-cadastro.jpeg
 title: API - Viacep
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
