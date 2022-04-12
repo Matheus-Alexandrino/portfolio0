@@ -3,7 +3,7 @@
 <div style="padding-top: 20px" class="ui container ">
     <p>Não foi possível encontrar esse URL. Talvez você estivesse procurando por um dos seguintes:</p>
 
-    <h3>essays</h3>
+    <h3> </h3>
     <ul>
         {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %} {% for page in essay_pages %}
         <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
