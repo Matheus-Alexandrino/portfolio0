@@ -29,8 +29,9 @@ Descrição do projeto:
 
 Projeto feito com a finalidade de consumir uma API, populando campos do formulário de cadastro automaticamente.
 
-Segue link do projeto :
-https://matheus-alexandrino.github.io/api-correios-js/
+
+
+Código fonte: <a href="https://matheus-alexandrino.github.io/api-correios-js/"><i class="large github icon"></i>Matheus-Alexandrino/api/correios-js/</a>
 
 
 
