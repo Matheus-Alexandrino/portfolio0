@@ -7,9 +7,12 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Javascript
+  - CSS
+  - HTML
+  - Bootstrap
+  - API Viacep
+  
 summary: Neste projeto consumo a API Viacep com uma interface de cadastro fictício.
 ---
 
