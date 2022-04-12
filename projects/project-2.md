@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ecoleta.jpeg
 title: E-coleta
-permalink: projects/e-coleta
+permalink: projects/ecoleta
 # All dates must be YYYY-MM-DD format!
 date: Criado em 2021
 labels:
