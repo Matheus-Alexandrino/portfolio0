@@ -1,5 +1,7 @@
-# Portfólio Pessoal
+# Technical Portfolio
 
+This repository hosts a technical portfolio built using [TechFolio](http://techfolios.github.io). 
 
-https://matheus-alexandrino.github.io/portfolio/
+See the quick start guide for instructions on how to tailor the template to your own needs.
+
 
