@@ -3,17 +3,17 @@
 // Don't edit this file.  Put your changes in stylesheet-customizations.scss
 // Default background color
 body {
-    background-color: #494949;
+    background-color: #cecece;
 }
 
 // Default menubar color
 .ui.menu {
-    background: lighten(silver, 10%);
+    background: lighten(rgb(61, 61, 61), 10%);
 }
 
 // Default home page icon color
 .icon-color {
-    color: darken(rgb(46, 46, 46), 40%);
+    color: darken(rgb(136, 136, 136), 40%);
 }
 
 // Prefer space between list items in screen mode.
