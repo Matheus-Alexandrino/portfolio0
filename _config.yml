@@ -6,7 +6,7 @@ title: Matheus Alexandrino | Portfólio Profissional
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://matheus-alexandrino.github.io/portfolio"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "https://matheus-alexandrino.github.io/portfolio"
+baseurl: "/portfolio"
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
@@ -16,10 +16,10 @@ bio-page-label: Currículo
 theme-home: theme-home-builtin-1.html
 theme-projects: theme-projects-builtin-1.html
 theme-essays: theme-essays-builtin-1.html
-theme-bio: theme-bio-builtin-1.html
+theme-bio: theme-bio-builtin-2.html
 
 # Specify the rouge syntax highlighter theme. Pick one from css/rouge.
-rouge-theme: igorpro
+rouge-theme: base16.dark
 
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
