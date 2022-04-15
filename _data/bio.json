@@ -1,141 +1,169 @@
 {
-    "basics": {
-        "name": "Maheus Alexandrino",
-        "label": "Analista Desenvolvedor JR",
-        "picture": "https://matheus-alexandrino.github.io/portfolio/images/mat.jpg",
-        "email": "matwsalmeida@gmail.com",
-        "phone": "44988074140",
-        "website": "https://matheus-alexandrino.github.io",
-        "summary": "	Um ano e meio de experiência na área como CLT, boa capacidade de resolução de problemas, raciocínio lógico, bom relacionamento interpessoal, total comprometimento com a equipe, 4º período de análise e desenvolvimento de sistemas pela UniCesumar, possuo alguns cursos na área de programação e sigo estudando em busca de oportunidades que me proporcionem crescimento, aprendendo com os mais experiêntes e podendo também compartilhar conhecimento e experiências que já tive.",
-        "location": {
-            "address": "",
-            "postalCode": "",
-            "city": "Maringá",
-            "countryCode": "BRZ",
-            "region": "Paraná"
-        },
-        "profiles": [{
-                "network": "github",
-                "username": "Matheus-Alexandrino",
-                "url": "https://github.com/Matheus-Alexandrino"
-            },
-            {
-                "network": "linkedin",
-                "username": "Matheus Alexandrino",
-                "url": "https://www.linkedin.com/in/matheus-alexandrino-21081993/"
-            },
-            {
-                "network": "whatsapp",
-                "username": "Matheus Alexandrino",
-                "url": "https://api.whatsapp.com/send?phone=5544988074140&text=Ol%C3%A1%2C%20Matheus.%20Tudo%20bem%3F"
-            }
-        ]
+  "basics": {
+    "name": "Molly Maluhia",
+    "label": "Student",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
     },
-    "interests": [{
-            "name": "Desenvolvimento de software",
-            "keywords": [
-                "Uniface",
-                "Javascript",
-                "PHP"
-            ]
-        },
-        {
-            "name": " Analista de Suporte",
-            "keywords": []
-        },
-        {
-            "name": " Front-End",
-            "keywords": []
-        }
-    ],
-    "skills": [{
-        "name": "Linguagens e Frameworks",
-        "level": "",
-        "keywords": [
-            "Javascript",
-            "Uniface",
-            "SQL",
-            "HTML",
-            "PHP",
-            ""
-        ]
-
-    }],
-    "education": [{
-        "institution": "Unicesumar, Maringá, PR",
-        "area": "Análise e Desenvolvimento de Sistemas (conclusão, 2023)",
-        "studyType": "EAD",
-        "startDate": "01/2020",
-        "endDate": "2023",
-        "gpa": "",
-        "courses": []
-    }],
-    "work": [{
-            "company": "Vertti Tecnologia",
-            "position": "Analista de Software JR",
-            "website": "https://www.vertti.com.br/",
-            "startDate": "12-2021",
-            "endDate": "Presente",
-            "summary": "Head of online presence for Ka Leo",
-            "highlights": [
-                "Maintain, update, and oversee official college newspaper website",
-                "Drive, design and build student-community projects for UH Manoa"
-            ]
-        },
-        {
-            "company": "Josymix",
-            "position": "Analista de suporte",
-            "website": "http://www.josymix.com.br",
-            "startDate": "08-2020",
-            "endDate": "10-2021",
-            "summary": "",
-            "highlights": [
-                "Troubleshoot software, hardware and networking issues over the phone",
-                "Answer phone and email responses to the ITS Help Desk"
-            ]
-        }
-    ],
-    "volunteer": [{
-            "organization": "Comunhão Cristã Abba Itararé/SP",
-            "website": "",
-            "position": "Serviços gerais",
-            "startDate": "04-2020",
-            "endDate": "05-2021",
-            "summary": "Participei de ações de arrecadação de alimentos
-            para famílias em situação vulnerável durante a primeira onda de COVID 19 ",
-            "highlights": [
-                ""
-            ]
-        },
-        {
-            "organization": "",
-            "website": "",
-            "position": "Professional organization involvement",
-            "startDate": "",
-            "endDate": "",
-            "summary": "",
-            "highlights": [
-                "Chair, ACM Manoa, 2016-Present",
-                "Member, IEEE Student Branch, 2014-Present",
-                "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-            ]
-        }
-    ],
-    "awards": [{
-            "title": "B+ Scholarship",
-            "date": "2013-Present",
-            "awarder": "State of Hawaii",
-            "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-        },
-        {
-            "title": "First place",
-            "date": "2015",
-            "awarder": "University of Hawaii Micromouse Competition",
-            "summary": "My team won first place in 2015.  See my portfolio site for more details."
-        }
-    ],
-    "references": [{
-        "name": "Available upon request",
-        "reference": ""
-    }]
+    "profiles": [
+      {
+        "network": "github",
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
+      },
+      {
+        "network": "linkedin",
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
 }
