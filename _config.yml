@@ -22,6 +22,6 @@ theme-bio: theme-bio-builtin-2.html
 rouge-theme: igorpro
 
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
-markdown: kramdown
+markdown: base16.dark
 include: [_data]
 
