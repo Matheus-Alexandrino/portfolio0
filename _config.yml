@@ -2,7 +2,7 @@
 
 # REQUIRED CHANGES
 # Edit next line, providing your own name.
-title: Matheus | Portfólio 
+title: Matheus Alexandrino | Portfólio Profissional
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://matheus-alexandrino.github.io/portfolio"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
@@ -13,17 +13,13 @@ baseurl: "/portfolio"
 bio-page-label: Currículo
 # You might want to change the theme associated with one or more sections of the site.
 # Defining your own custom theme variations is easy. See the documentation.
-<<<<<<< HEAD
 theme-home: theme-home-builtin-1.html
 theme-projects: theme-projects-builtin-1.html
-theme-essays: theme-essays-builtin-1.html
+theme-essays: theme-essays-builtin-1a.html
 theme-bio: theme-bio-builtin-2.html
-=======
-
-
 
 # Specify the rouge syntax highlighter theme. Pick one from css/rouge.
-rouge-theme: igorpro
+rouge-theme: base16.dark
 
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
