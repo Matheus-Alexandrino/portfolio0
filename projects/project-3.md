@@ -16,7 +16,7 @@ labels:
 summary: Projeto desenvolvido para consumir a API Viacep.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/API-cadastro.jpeg">Cotton
+<img class="ui image" src="{{ site.baseurl }}/images/API-cadastro.jpeg">Api Viacep
 
  is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
@@ -30,5 +30,5 @@ Descrição do projeto
 
 <hr>
 
-Source: <a href="https://matheus-alexandrino.github.io/api-correios-js/"><i class="large github icon "></i>Matheus-Alexandrino/api-correios-js</a>
+Fonte: <a href="https://matheus-alexandrino.github.io/api-correios-js/"><i class="large github icon "></i>Matheus-Alexandrino/api-correios-js</a>
 
