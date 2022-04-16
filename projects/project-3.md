@@ -16,7 +16,7 @@ labels:
 summary: Projeto desenvolvido para consumir a API Viacep.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/ecoleta.jpeg">Api Viacep
+<img class="ui image" src="{{ site.baseurl }}/images/API-cadastro.jpeg">Api Viacep
 
 Projeto feito para praticar o consumo de API usando "fetch".
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ecoletajpeg
+image: images/ecoleta.jpeg
 title: Ecoleta
 permalink: projects/nlw1
 # All dates must be YYYY-MM-DD format!
