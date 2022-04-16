@@ -2,16 +2,16 @@
 
 {% if site.data.bio.work %}
 <div class="sixteen wide column no-bottom">
-  <h3 class="ui left aligned header no-bottom">Professional Experience</h3>
-  <hr style="margin: 0px;">
+    <h3 class="ui left aligned header no-bottom">Experiencia Profissional</h3>
+    <hr style="margin: 0px;">
 </div>
 
 {% for entry in site.data.bio.work %}
-  <div class="twelve wide column no-bottom">
+<div class="twelve wide column no-bottom">
     <p class="ui no-bottom"><b>{{ entry.position }}, {{ entry.company }}</b></p>
     <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-  </div>
-  <div class="four wide right aligned column no-bottom">
+</div>
+<div class="four wide right aligned column no-bottom">
     <p class="ui no-bottom"><b>
       {% if entry.startDate %}
         {{ entry.startDate | slice: 0,4 }}
@@ -27,18 +27,16 @@
         {% endif %}
       {% endif %}
     </b></p>
-  </div>
+</div>
 
-  <div style="padding-top: 0px;" class="sixteen wide column no-bottom">
+<div style="padding-top: 0px;" class="sixteen wide column no-bottom">
     <p class="ui no-bottom">{{ entry.summary }}</p>
     {% if entry.highlights %}
-      <ul style="margin: 0px;">
+    <ul style="margin: 0px;">
         {% for highlight in entry.highlights %}
-          <li>{{ highlight }}</li>
+        <li>{{ highlight }}</li>
         {% endfor %}
-      </ul>
+    </ul>
     {% endif %}
-  </div>
-{% endfor %}
-
-{% endif %}
+</div>
+{% endfor %} {% endif %}
