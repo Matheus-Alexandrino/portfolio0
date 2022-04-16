@@ -1,5 +1,5 @@
 <!-- Home page design with card including image -->
-{% assign essay_pages = site.pages | where: "type", "essay" | where_exp: "page", "page.draft != true" %} {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %} {% assign num_essays = essay_pages.size
+{% assign essay_pages = site.pages | where: "type", "essay" | where_exp: "page", "page.draft != true" %} {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %} {% assign num_estudos = essay_pages.size
 %} {% assign num_projects = project_pages.size %}
 
 <div style="height: 100%" class="ui middle aligned grid ">
@@ -33,8 +33,8 @@
                 <a href="{{ site.baseurl}}/projects/">
                     <button class="ui basic button">Projetos ({{ num_projects }})</button>
                 </a>
-                <a href="{{ site.baseurl}}/essays/">
-                    <button class="ui basic button">Estudos ({{ num_essays }})</button>
+                <a href="{{ site.baseurl}}/estudos/">
+                    <button class="ui basic button">Estudos ({{ num_estudos }})</button>
                 </a>
                 <a href="{{ site.baseurl}}/bio/">
                     <button class="ui basic button">{{ site.bio-page-label }}</button>
