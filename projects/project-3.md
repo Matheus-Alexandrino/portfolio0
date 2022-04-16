@@ -18,9 +18,7 @@ summary: Projeto desenvolvido para consumir a API Viacep.
 
 <img class="ui image" src="{{ site.baseurl }}/images/API-cadastro.jpeg">Api Viacep
 
- is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
+Projeto feito para praticar o consumo de API usando "fetch".
 
 <hr>
 

@@ -1,25 +1,33 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/ecoletajpeg
+title: Ecoleta
+permalink: projects/nlw1
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-08
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
+  - HTML
+  - CSS
+  - Bootstrap
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Projeto desenvolvido para praticar a criação de site com leiaute responsivo
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui image" src="{{ site.baseurl }}/images/ecoleta.jpeg">Ecoleta
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+ Projeto feito na primeira edição da NLW da Rocketseat em 2020.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+To give you a flavor of the game, here is an excerpt from one run:
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+<hr>
+
+<pre>
+Descrição do projeto
+</pre>
+
+<hr>
+
+Fonte: <a href="https://matheus-alexandrino.github.io/nextLevelWeek-1/"><i class="large github icon "></i>Matheus-Alexandrino/nextLevelWeek-1</a>
+
