@@ -133,7 +133,7 @@
  */
  
  a {
-     background: transparent;
+     background: gray;
  }
  /**
  * Improve readability when focused and also mouse hovered in all browsers.
