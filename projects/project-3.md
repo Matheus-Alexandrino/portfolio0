@@ -1,18 +1,22 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/API-cadastro.jpeg
+title: API Viacep
+permalink: projects/api-viacep
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
+  - Javascript
+  - Insomnia
+  - HTML
+  - CSS
+  - Bootstrap
   - GitHub
 summary: A text adventure game I developed for ICS 313.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/API-cadastro.jpeg">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
