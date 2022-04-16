@@ -4,7 +4,7 @@
 # Edit next line, providing your own name.
 title: Matheus Alexandrino | Portfólio Profissional
 # Edit next line, replacing 'techfolios' with your github username
-url: "https://matheus-alexandrino.github.io/portfolio"
+url: "https://matheus-alexandrino.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: "/portfolio"
 
@@ -19,9 +19,10 @@ theme-essays: theme-essays-builtin-2.html
 theme-bio: theme-bio-builtin-2.html
 
 # Specify the rouge syntax highlighter theme. Pick one from css/rouge.
-rouge-theme: base16
+rouge-theme: igorpro
 
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
 include: [_data]
+
 
