@@ -119,13 +119,13 @@
         }
     ],
     "awards": [{
-        "title": "First place",
-        "date": "2015",
-        "awarder": "University of Hawaii Micromouse Competition",
-        "summary": "My team won first place in 2015.  See my portfolio site for more details."
+        "title": "Curso Uniface",
+        "date": "2022",
+        "awarder": "Vertti Academy",
+        "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
     }],
     "references": [{
-        "name": "Em construç",
+        "name": "Em construção",
         "reference": ""
     }]
 }
