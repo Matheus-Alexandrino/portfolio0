@@ -5,7 +5,7 @@ image: images/API-cadastro.jpeg
 title: API Viacep
 permalink: projects/api-viacep
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-12
 labels:
   - Javascript
   - Insomnia
@@ -13,7 +13,7 @@ labels:
   - CSS
   - Bootstrap
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: Projeto desenvolvido para consumir a API Viacep.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/API-cadastro.jpeg">
