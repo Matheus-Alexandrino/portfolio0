@@ -104,7 +104,7 @@
                 Cadastro de acessos em softwares de comunicação interna, e - mail corporativo(cPanel), instalação de certificados
                 digitais, impressoras A4, matriciais e térmicas.Adaptações e modificações de hardware para melhorar o desempenho dos
                 equipamentos, compras e orçamentos de peças e equipamentos de hardware.
-                "
+                ",
             ]
         }
     ],
@@ -132,42 +132,11 @@
         }
     ],
     "awards": [{
-            "title": "Curso Uniface Básico",
-            "date": "2022",
-            "awarder": "Vertti Academy",
-            "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
-        },
-        {
-            "title": "Curso Uniface",
-            "date": "2022",
-            "awarder": "Vertti Academy",
-            "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
-        },
-        {
-            "title": "Curso Uniface",
-            "date": "2022",
-            "awarder": "Vertti Academy",
-            "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
-        },
-        {
-            "title": "Curso Uniface",
-            "date": "2022",
-            "awarder": "Vertti Academy",
-            "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
-        },
-        {
-            "title": "Curso Uniface",
-            "date": "2022",
-            "awarder": "Vertti Academy",
-            "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
-        },
-        {
-            "title": "Curso Uniface",
-            "date": "2022",
-            "awarder": "Vertti Academy",
-            "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
-        }
-    ],
+        "title": "Curso Uniface",
+        "date": "2022",
+        "awarder": "Vertti Academy",
+        "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
+    }],
     "references": [{
         "name": "Em construção",
         "reference": ""
