@@ -132,11 +132,42 @@
         }
     ],
     "awards": [{
-        "title": "Curso Uniface",
-        "date": "2022",
-        "awarder": "Vertti Academy",
-        "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
-    }],
+            "title": "Curso Uniface Básico",
+            "date": "2022",
+            "awarder": "Vertti Academy",
+            "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
+        },
+        {
+            "title": "Curso Uniface",
+            "date": "2022",
+            "awarder": "Vertti Academy",
+            "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
+        },
+        {
+            "title": "Curso Uniface",
+            "date": "2022",
+            "awarder": "Vertti Academy",
+            "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
+        },
+        {
+            "title": "Curso Uniface",
+            "date": "2022",
+            "awarder": "Vertti Academy",
+            "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
+        },
+        {
+            "title": "Curso Uniface",
+            "date": "2022",
+            "awarder": "Vertti Academy",
+            "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
+        },
+        {
+            "title": "Curso Uniface",
+            "date": "2022",
+            "awarder": "Vertti Academy",
+            "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
+        }
+    ],
     "references": [{
         "name": "Em construção",
         "reference": ""
