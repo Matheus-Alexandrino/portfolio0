@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ecoletamobile.png
+image: images/ecoleta.jpeg
 title: Ecoleta
 permalink: projects/nlw1
 # All dates must be YYYY-MM-DD format!
@@ -20,7 +20,8 @@ summary: Projeto desenvolvido para praticar a criação de site com leiaute resp
  Projeto feito na primeira edição da NLW da Rocketseat em 2020.
 
 To give you a flavor of the game, here is an excerpt from one run:
-<img class="ui image" src="{{ site.baseurl }}/images/ecoletamobile.png">
+<img class="ui tiny left floated image" src="{{ site.baseurl }}/images/ecoletamobile.png">
+
 <hr>
 
 <pre>
