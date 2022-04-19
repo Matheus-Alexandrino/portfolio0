@@ -20,7 +20,7 @@ summary: Projeto desenvolvido para praticar a criação de site com leiaute resp
  Projeto feito na primeira edição da NLW da Rocketseat em 2020.
 
 To give you a flavor of the game, here is an excerpt from one run:
-
+<img class="ui image" src="{{ site.baseurl }}/images/ecoletamobile.png">
 <hr>
 
 <pre>
