@@ -10,10 +10,10 @@ labels:
   - Uniface
   - PL/SQL-Oracle
   
-summary: Projeto desenvolvido no programa de capacitação Vertti Academy.
+summary: Projeto desenvolvido no programa de capacitação Vertti Academy módulo básico.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/livraria_uniface1.jpeg">Livraria Uniface
+<img class="ui image" src="{{ site.baseurl }}/images/livraria_uniface1.jpeg">Tela de cadastro de clientes-Livraria Uniface
 
 Projeto desenvolvido no programa de capacitação Vertti Academy.
 
