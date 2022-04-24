@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: images/livraria_uniface1.jpeg
-title: API Viacep
+title: Livraria em Uniface 9
 permalink: projects/uniface
 # All dates must be YYYY-MM-DD format!
 date: 2021-12
 labels:
   - Uniface
-  - PL/SQL
+  - PL/SQL-Oracle
   
 summary: Projeto desenvolvido no programa de capacitação Vertti Academy.
 ---
