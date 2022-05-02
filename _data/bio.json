@@ -50,7 +50,7 @@
     ],
     "skills": [{
         "name": "Linguagens e Frameworks",
-        "level": "",
+        "level": "JR",
         "keywords": [
             "Javascript",
             "Uniface",
@@ -135,7 +135,13 @@
         "title": "Curso Uniface",
         "date": "2022",
         "awarder": "Vertti Academy",
-        "summary": "Curso destinado a ensinar a dar os primeiros passos com a linguagem Uniface."
+        "summary": "Neste curso, você aprenderá como desenvolver sistemas com a linguagem de programação Uniface.
+
+            Uniface é uma plataforma de desenvolvimento de software baseada no conceito RAD(Rapid Application Development),
+        que permite implementar aplicações baseadas no modelo cliente - servidor e / ou web.
+
+        Este curso destina - se a pessoas que já possuam experiência em desenvolvimento de software.
+        "
     }],
     "references": [{
         "name": "Em construção",
