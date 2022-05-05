@@ -27,5 +27,5 @@ Descrição do projeto
 
 <hr> Em construção
 
-Fonte: <a href="https://matheus-alexandrino.github/web"><i class="large github icon "></i>Matheus Alexandrino/</a>
+Fonte: <a href="https://matheus-alexandrino.github/web"><i class="large github icon "></i>Matheus A/</a>
 
