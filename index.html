@@ -12,12 +12,38 @@
   <header id="header">
     <section>
         <div class="container-fluid text-center ">
-            <h1 class="light text-center">Oi, Mundo! Eu sou o Rafinha!</h1>
+            <h1 class="light text-center">Hello word</h1>
             <h5>Comece seu projeto aqui!</h5>
             <img src="https://gestion.pe/resizer/-dZv1LKaefNpluiYtgcyZixfjSE=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/S24ELSB33VDVBHUL6MMN457OYM.jpg" style="width:250px "alt="">
         </div>
     </section>
-  
+    <div class="row">            
+      <div class="col-sm-3 mt-3 text-center light">
+          <div class="card ">
+              <form method="POST" action="processa.php" enctype="multipart/form-data">
+                  <div class="card-header text-center bg-info text-white mb-3 "  required="">
+                      <h5 class="mt-2" maxlength="31"><b>Nome}</b></h5>
+                  </div>
+                  <div class="card-body    text-center">
+                      <img class="img-circle" width="150px" height="150px"
+                          src="#insedir imagem" alt="User Image">
+                      <h6 class="float-center mt-2">Email</h6>
+
+                      <h6 class="float-center mt-1"> <b>CPF:numero do cpf</b></h6>
+
+                      <h6 class="mt-0"> <b>Id: {{ $cliente->id }}</b></h6>
+                      <a href="https://web.whatsapp.com/send?phone=numeroDoFone"
+                          class="btn btn-success col-sm-12 text-white  " title="">
+                          <i class="icon-whatsapp  cirlce "></i> Numero do fone</a>
+
+                      <a href="#"
+                          class="btn btn-info btn-sm mt-1 text-white col-sm-12"><i class="fa fa-edit "></i>
+                          Editar Dados</a>
+                  </div>
+              </form>
+          </div>
+      </div>                
+</div>
 
       
    
